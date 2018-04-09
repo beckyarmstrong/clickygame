@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Gobo Fraggle",
+    "image": "https://vignette.wikia.nocookie.net/muppet/images/5/50/Gobo-fraggle.jpg/revision/latest?cb=20121231172559",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Convincing John",
+    "image": "https://vignette.wikia.nocookie.net/muppet/images/d/d9/Convincing_John.JPG/revision/latest/scale-to-width-down/300?cb=20051221224344",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Boober",
+    "image": "https://vignette.wikia.nocookie.net/muppet/images/d/da/Boober_Fraggle.jpg/revision/latest?cb=20121231172124",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Red",
+    "image": "https://hobbydb-production.s3.amazonaws.com/processed_uploads/subject_photo/subject_photo/image/33066/1510272187-27425-8183/Red_Fraggle.jpg",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Uncle",
+    "image": "https://vignette.wikia.nocookie.net/muppet/images/6/6d/UncleTravelingMattFraggle.jpg/revision/latest?cb=20121231173127",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Mokey",
+    "image": "https://vignette.wikia.nocookie.net/muppet/images/2/28/Mokey.jpg/revision/latest?cb=20121231164852",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Side Bottom",
+    "image": "https://muppetmindset.files.wordpress.com/2014/06/sidebottom.png",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Wembley",
+    "image": "https://vignette.wikia.nocookie.net/muppet/images/a/a8/Wembley_Fraggle.jpg/revision/latest?cb=20121231171712",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Cantus",
+    "image": "https://muppetmindset.files.wordpress.com/2014/06/cantus.png",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "The World's Oldest Fraggle",
+    "image": "https://vignette.wikia.nocookie.net/puppet/images/2/2e/Worlds.OldestFraggle.jpg/revision/latest?cb=20070217194518",
+    "count": 0
+  }
+]
